@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Sam Ullman's Github Stats](https://github-readme-stats.vercel.app/api?username=samullman)](https://github.com/samullman)
 <!--
 **samullman/samullman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
