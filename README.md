@@ -18,22 +18,7 @@
         </a>
         <br />
     </td>
-    
-     <td align="center" style="border:none;">
-        <a href="https://twitter.com/samullman">
-            <img src="https://avatars3.githubusercontent.com/u/10147333?v=4" width="100px;" alt=""/>
-            <br />
-            <sub>
-                <b>Sam Ullman</b>
-            </sub>
-        </a>
-        <br />
-    </td>
-    
-   
   </tr>
-  
-  
 </table>
 
 
