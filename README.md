@@ -2,7 +2,10 @@
 
 
 ## Projects
-- 
+- [Finance Friends](https://financefriends.org/)
+- [PotLand](https://pot.land/)
+- [Weebly](https://weebly.vercel.app)
+- [Galleria](https://galleria-kappa.vercel.app)
 
 
 
