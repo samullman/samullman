@@ -4,8 +4,9 @@
 ## Projects
 - 
 
-## Technology
--
+## UI
+- [React](https://reactjs.org)
+- [Svelte](https://svelte.dev/)
 
 [![Sam Ullman's Github Stats](https://github-readme-stats.vercel.app/api?username=samullman)](https://github.com/samullman)
 
