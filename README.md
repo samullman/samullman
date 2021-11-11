@@ -1,31 +1,33 @@
 
 
+### Finance Friends
+Dispensaries directory with a dose of art & culture. 
 
-## Projects
-- [Finance Friends](https://financefriends.org/)
-- [PotLand](https://pot.land/)
-- [Weebly](https://weebly.vercel.app)
-- [Galleria](https://galleria-kappa.vercel.app)
+[Website](https://financefriends.org/) | [Repo](https://github.com/finance-friends/web)
 
 
 
-<table>
-  <tr>
-    <td align="center" style="border:none;">
-        <a href="https://twitter.com/samullman">
-            <img src="https://avatars3.githubusercontent.com/u/10147333?v=4" width="100px;" alt=""/>
-            <br />
-            <sub>
-                <b>Sam Ullman</b>
-            </sub>
-        </a>
-        <br />
-    </td>
-  </tr>
-</table>
+### Pot Land
+Dispensaries directory with a dose of art & culture. 
+
+[Website](https://pot.land) | [Repo](https://github.com/samullman/potland)
 
 
+### Eternal Camping
+Low-budget living for humans. 
 
+[Website](https://weebly.vercel.app) | [Repo](https://github.com/samullman/weebly)
+
+### Weebly
+Open-source modular vehicles. 
+
+[Website](https://weebly.vercel.app) | [Repo](https://github.com/samullman/weebly)
+
+
+### Galleria
+A Instagram-like app published on the Solana Blockchain. 
+
+[Website](https://galleria-kappa.vercel.app) | [Repo](https://github.com/samullman/galleria)
 
 
 [![Sam Ullman's Github Stats](https://github-readme-stats.vercel.app/api?username=samullman)](https://github.com/samullman)
