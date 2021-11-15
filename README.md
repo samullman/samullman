@@ -1,3 +1,14 @@
+## Sam Ullman
+We're taking back over.  Power to the people.  Institutions are telling us how to think, read, eat, sleep, marry, and live and I think individuals do a better job themselves.  My mission is to empower people to stand up for themselves.   
+
+
+## Find me online
+* [Twitter](https://twitter.com/samullman)
+* [Instagram](https://instagram.com/jolly.jitsu)
+* [Twitch](https://twitch.tv/samullman)
+
+## Projects
+
 ### Finance Friends
 Directory of SEC-registered financial advisors and institutions. 
 
@@ -8,13 +19,19 @@ Low-budget, high-culture living for all humans.
 
 [Website](https://weebly.vercel.app) | [Repo](https://github.com/samullman/weebly)
 
+
+### Gentle Man
+Finding work, family, and love for all men. 
+
+[Website](https://gentle-man.xyz) | [Repo](https://github.com/samullman/gentleman)
+
 ### Weebly
-Open-source modular vehicles. 
+Open-source, modular, self-assembled vehicles. 
 
 [Website](https://weebly.vercel.app) | [Repo](https://github.com/samullman/weebly)
 
 ### Galleria
-An Instagram-like app owning and displaying your art! 
+An Instagram-like app owning and displaying your art.
 
 [Website](https://galleria-kappa.vercel.app) | [Repo](https://github.com/samullman/galleria)
 
@@ -23,6 +40,9 @@ Dispensaries directory with a dose of art & culture.
 
 [Website](https://pot.land) | [Repo](https://github.com/samullman/potland)
 
+
+
+## Stats
 
 [![Sam Ullman's Github Stats](https://github-readme-stats.vercel.app/api?username=samullman)](https://github.com/samullman)
 
