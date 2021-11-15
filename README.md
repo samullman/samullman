@@ -1,9 +1,9 @@
 
 
 ### Finance Friends
-Dispensaries directory with a dose of art & culture. 
+Directory of SEC-registered financial advisors and institutions. 
 
-[Website](https://financefriends.org/) | [Repo](https://github.com/finance-friends/web)
+[Website](https://financefriends.org/)
 
 
 
