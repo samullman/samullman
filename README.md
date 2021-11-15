@@ -14,7 +14,7 @@ Dispensaries directory with a dose of art & culture.
 
 
 ### Eternal Camping
-Low-budget living for humans. 
+Low-budget, high-culture living for all humans. 
 
 [Website](https://weebly.vercel.app) | [Repo](https://github.com/samullman/weebly)
 
@@ -25,7 +25,7 @@ Open-source modular vehicles.
 
 
 ### Galleria
-A Instagram-like app published on the Solana Blockchain. 
+An Instagram-like app owning and displaying your art! 
 
 [Website](https://galleria-kappa.vercel.app) | [Repo](https://github.com/samullman/galleria)
 
