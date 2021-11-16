@@ -1,7 +1,5 @@
 ## Sam Ullman
-We're taking back over.  Power to the people.  Institutions are telling us how to think, read, eat, sleep, marry, and live and I think individuals do a better job themselves.  My mission is to empower people to stand up for themselves and others.  We're in this together.  Let's stand together. 
-
-I have been developing websites for over 5 years.  I currently use Svelte/SvelteKit for building apps.  I've used React/Next.js and React/Gatsby.js.
+Web Developer based in Austin, TX.  Building powerful web apps for a better world.  Let's empower individuals to do their best work.
 
 [Get in touch](mailto:samullman@gmail.com) about building technology with any of these things. 
 
@@ -23,9 +21,11 @@ Low-budget, high-culture living for all humans.
 
 [Website](https://weebly.vercel.app) | [Repo](https://github.com/samullman/weebly)
 
+### Codeskewl
+0-60pm programming modules. 
 
 ### Gentle Man
-Finding work, family, and love for all men. 
+Finding work, family, and love for all. 
 
 [Website](https://gentle-man.xyz) | [Repo](https://github.com/samullman/gentleman)
 
