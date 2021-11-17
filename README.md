@@ -1,7 +1,7 @@
 ## Sam Ullman
-Web Developer based in Austin, TX.  Building powerful web apps for a better world.  Let's empower individuals to do their best work.
+Web & business developer based in Austin, TX.  I'm building powerful web apps and inventing novel solutions to problems most people do not see yet.
 
-[Get in touch](mailto:samullman@gmail.com) about building technology with any of these things. 
+[Get in touch](mailto:samullman@gmail.com) about building together. 
 
 
 ## Find me online
@@ -16,34 +16,34 @@ Directory of SEC-registered financial advisors and institutions.
 
 [Website](https://financefriends.org/)
 
-### Eternal Camping
+<!-- ### Eternal Camping
 Low-budget, high-culture living for all humans. 
 
 [Website](https://weebly.vercel.app) | [Repo](https://github.com/samullman/weebly)
-
-### Codeskewl
+ -->
+<!-- ### Codeskewl
 0-60pm programming modules. 
 
 ### Gentle Man
 Finding work, family, and love for all. 
-
+ -->
 [Website](https://gentle-man.xyz) | [Repo](https://github.com/samullman/gentleman)
 
-### Weebly
+<!-- ### Weebly
 Open-source, modular, self-assembled vehicles. 
 
 [Website](https://weebly.vercel.app) | [Repo](https://github.com/samullman/weebly)
-
+ -->
 ### Galleria
 An Instagram-like app owning and displaying your art.
 
 [Website](https://galleria-kappa.vercel.app) | [Repo](https://github.com/samullman/galleria)
 
-### Pot Land
+<!-- ### Pot Land
 Dispensaries directory with a dose of art & culture. 
 
 [Website](https://pot.land) | [Repo](https://github.com/samullman/potland)
-
+ -->
 
 
 ## Stats
