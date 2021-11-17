@@ -16,33 +16,39 @@ Directory of SEC-registered financial advisors and institutions.
 
 [Website](https://financefriends.org/)
 
-<!-- ### Eternal Camping
-Low-budget, high-culture living for all humans. 
-
-[Website](https://weebly.vercel.app) | [Repo](https://github.com/samullman/weebly)
- -->
-<!-- ### Codeskewl
-0-60pm programming modules. 
-
-### Gentle Man
-Finding work, family, and love for all. 
- -->
-[Website](https://gentle-man.xyz) | [Repo](https://github.com/samullman/gentleman)
-
-<!-- ### Weebly
-Open-source, modular, self-assembled vehicles. 
-
-[Website](https://weebly.vercel.app) | [Repo](https://github.com/samullman/weebly)
- -->
+ 
 ### Galleria
 An Instagram-like app owning and displaying your art.
 
 [Website](https://galleria-kappa.vercel.app) | [Repo](https://github.com/samullman/galleria)
 
-<!-- ### Pot Land
+
+<!-- 
+Eternal Camping
+Low-budget, high-culture living for all humans. 
+
+Codeskewl
+0-60pm programming modules. 
+
+
+### Weebly
+Open-source, modular, self-assembled vehicles. 
+
+[Website](https://weebly.vercel.app) | [Repo](https://github.com/samullman/weebly)
+
+
+
+### Pot Land
 Dispensaries directory with a dose of art & culture. 
 
 [Website](https://pot.land) | [Repo](https://github.com/samullman/potland)
+
+
+### Gentle Man
+Finding work, family, and love for all. 
+
+[Website](https://gentle-man.xyz) | [Repo](https://github.com/samullman/gentleman)
+
  -->
 
 
