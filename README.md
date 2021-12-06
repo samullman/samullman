@@ -1,8 +1,17 @@
-## Sam Ullman
-Web & business developer based in Austin, TX.  I'm building powerful web apps and inventing novel solutions to problems most people do not see yet.
+# Sam Ullman
+Web & business developer based in Austin, TX!  I'm leveraging powerful web technologies for agencies, businesses, and startups!
 
-[Get in touch](mailto:samullman@gmail.com) about building together. 
+[Get in touch](mailto:samullman@gmail.com).  Let's build something great! 
 
+## Current Work
+I'm currently developing Next.js, Gatsby, and Svelte applications, particularly connected to Web3 resources and blockchains! I have experience developing custom UIs, E-commerce interfaces, and more with styled-components, animations, and most other frontend technologies. I've worked with many Headless-CMS systems, Shopify and other E-commerce engines, and realtime databases
+
+#LearnInPublic #100DaysOfCode
+
+## Past Work
+* [CodeNation](https://codenation.org/)
+* [Munchery](https://www.munchery.com/)
+* [Coco5](https://coco5.com/)
 
 ## Find me online
 * [Twitter](https://twitter.com/samullman)
