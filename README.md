@@ -12,6 +12,8 @@ I'm currently developing Next.js, Gatsby, and Svelte applications, particularly 
 * [CodeNation](https://codenation.org/)
 * [Munchery](https://www.munchery.com/)
 * [Coco5](https://coco5.com/)
+* [Applied Materials](https://www.appliedmaterials.com/interactive-proxy/)
+* [New Highs](https://1906newhighs.com/)
 
 ## Find me online
 * [Twitter](https://twitter.com/samullman)
