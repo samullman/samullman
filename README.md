@@ -16,9 +16,11 @@ I'm currently developing Next.js, Gatsby, and Svelte applications, particularly 
 * [New Highs](https://1906newhighs.com/)
 
 ## Find me online
+* [LinkedIn](https://www.linkedin.com/in/samullman/)
 * [Twitter](https://twitter.com/samullman)
 * [Instagram](https://instagram.com/jolly.jitsu)
 * [Twitch](https://twitch.tv/samullman)
+
 
 ## Projects
 
