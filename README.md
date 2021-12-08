@@ -29,12 +29,14 @@ Directory of SEC-registered financial advisors and institutions.
 
 [Website](https://financefriends.org/)
 
- 
-### Galleria
+### Ullman Labs
+[Organization](https://github.com/ullman-labs/)
+
+<!-- ### Galleria
 An Instagram-like app owning and displaying your art.
 
 [Website](https://galleria-kappa.vercel.app) | [Repo](https://github.com/samullman/galleria)
-
+ -->
 
 <!-- 
 Eternal Camping
