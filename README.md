@@ -11,9 +11,11 @@ I'm currently developing React.js, Next.js, Gatsby, and Svelte applications, par
 ## Favorite Technologies
 
 **Web Frameworks:** [Next.js](https://codenation.org/), [Gatsby.js](https://www.munchery.com/), [SvelteKit](https://coco5.com/),
-[Hydrogen](https://hydrogen.shopify.dev/) by Shopify
+[Hydrogen](https://hydrogen.shopify.dev/) by Shopify, [RedwoodJS](https://redwoodjs.com/), [Appwrite](https://appwrite.io/)
 
 **UI Libraries:** [ChakraUI](https://chakra-ui.com/), [ElasticUI](https://elastic.github.io/eui/#/), [TailwindCSS](https://tailwindcss.com/)
+
+**Utilities:** Auth0, [Zustand](https://zustand.sh) for State Management, [Svelte Cubed](https://svelte-cubed.vercel.app/) for ThreeJS, (Drei)[https://github.com/pmndrs]
 
 **Deployment:** [Vercel](https://vercel.com/), [Netlify](https://netlify.com/), [Layer0](https://layer0.co/)
 
