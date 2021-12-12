@@ -15,7 +15,7 @@ I'm currently developing React.js, Next.js, Gatsby, and Svelte applications, par
 
 **UI Libraries:** [ChakraUI](https://chakra-ui.com/), [ElasticUI](https://elastic.github.io/eui/#/), [TailwindCSS](https://tailwindcss.com/)
 
-**Utilities:** Auth0, [Zustand](https://zustand.sh) for State Management, [Svelte Cubed](https://svelte-cubed.vercel.app/) for ThreeJS, (Drei)[https://github.com/pmndrs]
+**Utilities:** Auth0, [Zustand](https://zustand.sh) for State Management, [Svelte Cubed](https://svelte-cubed.vercel.app/) for ThreeJS, [Drei](https://github.com/pmndrs)
 
 **Deployment:** [Vercel](https://vercel.com/), [Netlify](https://netlify.com/), [Layer0](https://layer0.co/)
 
