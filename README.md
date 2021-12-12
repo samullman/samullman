@@ -1,5 +1,5 @@
 # Sam Ullman
-👋 Hi I'm a web, business, and ui specialist living in Austin, TX!  I'm leveraging powerful web technologies for agencies, businesses, and startups!
+👋 Hi I'm a Web & UI Developer living in Austin, TX.  I'm leveraging powerful web technologies for agencies, businesses, and startups!
 
 [Get in touch](mailto:samullman@gmail.com). 
 
