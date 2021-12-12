@@ -22,6 +22,7 @@ I'm currently developing React.js, Next.js, Gatsby, and Svelte applications, par
 **Deployment:** [Vercel](https://vercel.com/), [Netlify](https://netlify.com/), [Layer0](https://layer0.co/)
 
 ## Past Work
+* [Marinade](https://marinade.finance/)
 * [CodeNation](https://codenation.org/)
 * [Munchery](https://www.munchery.com/)
 * [Coco5](https://coco5.com/)
