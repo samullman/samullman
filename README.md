@@ -8,6 +8,15 @@ I'm currently developing React.js, Next.js, Gatsby, and Svelte applications, par
 
 #LearnInPublic #100DaysOfCode
 
+## Favorite Technologies
+
+**Web Frameworks:** [Next.js](https://codenation.org/), [Gatsby.js](https://www.munchery.com/), [SvelteKit](https://coco5.com/),
+[Hydrogen](https://hydrogen.shopify.dev/) by Shopify
+
+**UI Libraries:** [ChakraUI](https://chakra-ui.com/), [ElasticUI](https://elastic.github.io/eui/#/), [TailwindCSS](https://tailwindcss.com/)
+
+**Deployment:** [Vercel](https://vercel.com/), [Netlify](https://netlify.com/), [Layer0](https://layer0.co/)
+
 ## Past Work
 * [CodeNation](https://codenation.org/)
 * [Munchery](https://www.munchery.com/)
