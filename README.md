@@ -33,6 +33,7 @@ I'm currently developing React.js, Next.js, Gatsby, and Svelte applications, par
 * [Twitter](https://twitter.com/samullman)
 * [Instagram](https://instagram.com/jolly.jitsu)
 * [Twitch](https://twitch.tv/samullman)
+* [Chess](https://chess.com/sullman)
 
 
 ## Projects
