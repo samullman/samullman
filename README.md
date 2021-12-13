@@ -1,5 +1,5 @@
 # Sam Ullman
-👋 My name is Sam! I'm a Web & UI Developer living in Austin, TX.  Currently leveraging powerful web technologies for agencies and startups.  
+👋 My name is Sam! I'm a Web & UI Developer living in Austin, TX.  Currently leveraging powerful web technologies for agencies and startups. Interested in Headless CMS, E-commerce, and Blockchains! Happy to work on any part of the stack including marketing and internal tooling.  
 
 [Get in touch](mailto:samullman@gmail.com). 
 
