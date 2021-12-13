@@ -1,12 +1,7 @@
 # Sam Ullman
-👋 Hi I'm a Web & UI Developer living in Austin, TX.  I'm leveraging powerful web technologies for agencies, businesses, and startups!
+👋 My name is Sam! I'm a Web & UI Developer living in Austin, TX.  Currently leveraging powerful web technologies for agencies and startups.  
 
 [Get in touch](mailto:samullman@gmail.com). 
-
-## Current Work
-I'm currently developing React.js, Next.js, Gatsby, and Svelte applications, particularly connected to Web3 resources and blockchains! I have experience developing custom UIs, E-commerce interfaces, and more with styled-components, animations, and most other frontend technologies. I've worked with many Headless-CMS systems, Shopify and other E-commerce engines, and realtime databases
-
-#LearnInPublic #100DaysOfCode
 
 ## Favorite Technologies
 
@@ -16,6 +11,8 @@ I'm currently developing React.js, Next.js, Gatsby, and Svelte applications, par
 **UI Libraries:** [ChakraUI](https://chakra-ui.com/), [ElasticUI](https://elastic.github.io/eui/#/), [TailwindCSS](https://tailwindcss.com/)
 
 **DataViz:** [Nivo](https://nivo.rocks/), [Victory](https://formidable.com/open-source/victory/), [Pancake](https://pancake-charts.surge.sh/)
+
+**Headless CMS:** [Contentful](https://contentful.com/), [Prismic](https://prismic.io/), [GraphCMS](https://graphcms.com/), [DatoCMS](https://www.datocms.com/), [Storyblok](https://www.storyblok.com/home)
 
 **Utilities:** [Auth0](https://auth0.com/), [Zustand](https://zustand.sh) for State Management, [Svelte Cubed](https://svelte-cubed.vercel.app/) for ThreeJS, [Drei](https://github.com/pmndrs)
 
