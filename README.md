@@ -83,6 +83,8 @@ Finding work, family, and love for all.
 
 [![Sam Ullman's Github Stats](https://github-readme-stats.vercel.app/api?username=samullman)](https://github.com/samullman)
 
+## Favorite Link
+[School Of Life](https://www.theschooloflife.com/) [Counterprint Books](https://www.counter-print.co.uk/)
 
 <!--
 **samullman/samullman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
