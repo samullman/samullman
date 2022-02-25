@@ -19,6 +19,8 @@
 **Deployment:** [Vercel](https://vercel.com/), [Netlify](https://netlify.com/), [Layer0](https://layer0.co/)
 
 ## Past Work
+* Aerx
+* Titan
 * [Marinade](https://marinade.finance/)
 * [CodeNation](https://codenation.org/)
 * [Munchery](https://www.munchery.com/)
