@@ -1,5 +1,5 @@
 # Sam Ullman
-👋 My name is Sam! I'm a Web & UI Developer living in Austin, TX.  Currently leveraging powerful web technologies for agencies and startups. Interested in Headless CMS, E-commerce, and Blockchains! Happy to work on any part of the stack including marketing and internal tooling.  
+👋 My name is Sam! I'm a Web & UI Developer living in Austin, TX.  Currently leveraging powerful web technologies for agencies and startup enterprises. Interested in UI/UX, Blockchain apps, and Javascript development! 
 
 [Get in touch](mailto:samullman@gmail.com). 
 
@@ -18,9 +18,8 @@
 
 **Deployment:** [Vercel](https://vercel.com/), [Netlify](https://netlify.com/), [Layer0](https://layer0.co/)
 
-## Past Work
-* Aerx
-* Titan
+## Work
+* [Orbit Exchance](https://orbitexchange.io)
 * [Marinade](https://marinade.finance/)
 * [CodeNation](https://codenation.org/)
 * [Munchery](https://www.munchery.com/)
@@ -36,69 +35,11 @@
 * [Chess](https://chess.com/sullman)
 
 
-## Projects
-
-### Finance Friends
-Directory of SEC-registered financial advisors and institutions. 
-
-[Website](https://financefriends.org/)
-
-### Ullman Labs
+## Ullman Labs
 [Organization](https://github.com/ullman-labs/)
-
-<!-- ### Galleria
-An Instagram-like app owning and displaying your art.
-
-[Website](https://galleria-kappa.vercel.app) | [Repo](https://github.com/samullman/galleria)
- -->
-
-<!-- 
-Eternal Camping
-Low-budget, high-culture living for all humans. 
-
-Codeskewl
-0-60pm programming modules. 
-
-
-### Weebly
-Open-source, modular, self-assembled vehicles. 
-
-[Website](https://weebly.vercel.app) | [Repo](https://github.com/samullman/weebly)
-
-
-
-### Pot Land
-Dispensaries directory with a dose of art & culture. 
-
-[Website](https://pot.land) | [Repo](https://github.com/samullman/potland)
-
-
-### Gentle Man
-Finding work, family, and love for all. 
-
-[Website](https://gentle-man.xyz) | [Repo](https://github.com/samullman/gentleman)
-
- -->
 
 
 ## Stats
 
 [![Sam Ullman's Github Stats](https://github-readme-stats.vercel.app/api?username=samullman)](https://github.com/samullman)
 
-## Favorite Link
-[School Of Life](https://www.theschooloflife.com/) [Counterprint Books](https://www.counter-print.co.uk/)
-
-<!--
-**samullman/samullman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
