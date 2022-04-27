@@ -27,11 +27,13 @@ My name is Sam! I develop technology out of Austin, TX. Currently helping compan
 
 **UI Libraries:** [ChakraUI](https://chakra-ui.com/), [ElasticUI](https://elastic.github.io/eui/#/), [TailwindCSS](https://tailwindcss.com/)
 
+**Databases:** [Moralis](https://moralis.io/), [Supabase](https://supabase.io), [Firebase](https://firebase.google.com/)
+
+**Utilities:** [Zustand](https://zustand.sh), [Drei](https://github.com/pmndrs)
+
+**CMS:** [Directus](https://directus.io/), [Contentful](https://contentful.com/), [Prismic](https://prismic.io/), [GraphCMS](https://graphcms.com/), [DatoCMS](https://www.datocms.com/), [Storyblok](https://www.storyblok.com/home), [Appwrite](https://appwrite.io/)
+
 **DataViz:** [Nivo](https://nivo.rocks/), [Victory](https://formidable.com/open-source/victory/), [Pancake](https://pancake-charts.surge.sh/)
-
-**CMS:** [Contentful](https://contentful.com/), [Prismic](https://prismic.io/), [GraphCMS](https://graphcms.com/), [DatoCMS](https://www.datocms.com/), [Storyblok](https://www.storyblok.com/home), [Appwrite](https://appwrite.io/)
-
-**Authorization:** [Zustand](https://zustand.sh), [Drei](https://github.com/pmndrs)
 
 **Authorization:** [Auth0](https://auth0.com/), [Clerk](https://clerk.dev)
 
