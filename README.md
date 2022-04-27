@@ -41,7 +41,7 @@ My name is Sam! I develop technology out of Austin, TX. Currently helping compan
 
 **Authorization:** [auth-0](https://auth0.com/), [clerk-dev](https://clerk.dev)
 
-**Deployment:** [vercel](https://vercel.com/), [netlify](https://netlify.com/), [deta](https://www.deta.sh/), [layer-0](https://layer0.co/), 
+**Deployment:** [vercel](https://vercel.com/), [netlify](https://netlify.com/), [deta](https://www.deta.sh/), [layer-0](https://layer0.co/)
 
 ## 🧃 Current 
 * [Ullman Labs](https://ullmanlabs.io/)
