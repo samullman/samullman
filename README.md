@@ -29,11 +29,13 @@ My name is Sam! I develop technology out of Austin, TX. Currently buidling fulls
 
 **DataViz:** [Nivo](https://nivo.rocks/), [Victory](https://formidable.com/open-source/victory/), [Pancake](https://pancake-charts.surge.sh/)
 
-**Headless CMS:** [Contentful](https://contentful.com/), [Prismic](https://prismic.io/), [GraphCMS](https://graphcms.com/), [DatoCMS](https://www.datocms.com/), [Storyblok](https://www.storyblok.com/home), [Appwrite](https://appwrite.io/)
+**CMS:** [Contentful](https://contentful.com/), [Prismic](https://prismic.io/), [GraphCMS](https://graphcms.com/), [DatoCMS](https://www.datocms.com/), [Storyblok](https://www.storyblok.com/home), [Appwrite](https://appwrite.io/)
 
-**Utilities:** [Auth0](https://auth0.com/), [Zustand](https://zustand.sh), [Drei](https://github.com/pmndrs)
+**Authorization:** [Zustand](https://zustand.sh), [Drei](https://github.com/pmndrs)
 
-**Deployment:** [Vercel](https://vercel.com/), [Netlify](https://netlify.com/), 
+**Authorization:** [Auth0](https://auth0.com/), [Clerk](https://clerk.dev)
+
+**Deployment:** [Vercel](https://vercel.com/), [Netlify](https://netlify.com/)
 
 ## 🧃 Current 
 * [Ullman Labs](https://ullmanlabs.io/)
