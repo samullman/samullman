@@ -20,7 +20,10 @@
 
 **Deployment:** [Vercel](https://vercel.com/), [Netlify](https://netlify.com/), [Layer0](https://layer0.co/)
 
-## Work
+## Cool products
+[Tango](https://www.tango.us/)
+
+## Past
 * [Orbit Exchance](https://orbitexchange.io)
 * [Marinade](https://marinade.finance/)
 * [CodeNation](https://codenation.org/)
@@ -30,11 +33,16 @@
 * [New Highs](https://1906newhighs.com/)
 
 ## Find me online
+
+
 * [LinkedIn](https://www.linkedin.com/in/samullman/)
 * [Twitter](https://twitter.com/samullman)
 * [Instagram](https://instagram.com/jolly.jitsu)
 * [Twitch](https://twitch.tv/samullman)
-* [Chess](https://chess.com/sullman)
+* 
+<a href="https://chess.com/sullman" target="_blank">
+  <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpmeXx6V.png" style="width:40px;" />
+</a>
 
 
 ## Ullman Labs
