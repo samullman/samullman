@@ -25,11 +25,11 @@ My name is Sam! I develop technology out of Austin, TX. Currently helping compan
 
 **Web Frameworks:** [Next.js](https://nextjs.org/), [SvelteKit](https://sveltekit.com/), [Remix.run](https://remix.run/), [RedwoodJS](https://redwoodjs.com/), [Atro.build](https://astro.build/), [Gatsby.js](https://www.gatsbyjs.com/)
 
-**UI:** [React](https://reactjs.org), [Svelte](https://svelte.dev/), [Preact](https://preactjs.com/), [Solid](https://www.solidjs.com/), [Mithril](https://mithril.js.org/), [Million](https://millionjs.org/), [ChakraUI](https://chakra-ui.com/), [ElasticUI](https://elastic.github.io/eui/#/), [TailwindCSS](https://tailwindcss.com/), 
+**UI:** [React](https://reactjs.org), [Svelte](https://svelte.dev/), [Preact](https://preactjs.com/), [Solid](https://www.solidjs.com/), [Mithril](https://mithril.js.org/), [Million](https://millionjs.org/), [ChakraUI](https://chakra-ui.com/), [ElasticUI](https://elastic.github.io/eui/#/), [TailwindCSS](https://tailwindcss.com/)
 
 **Databases:** [Moralis](https://moralis.io/), [Supabase](https://supabase.io), [Firebase](https://firebase.google.com/)
 
-**Utilities:** [Zustand](https://zustand.sh), [Drei](https://github.com/pmndrs)
+**Utilities:** [Zustand](https://zustand.sh), [Drei](https://github.com/pmndrs), (SWR)[https://swr.vercel.app/], [React Query](https://react-query.tanstack.com/)
 
 **CMS:** [Directus](https://directus.io/), [Contentful](https://contentful.com/), [Prismic](https://prismic.io/), [GraphCMS](https://graphcms.com/), [DatoCMS](https://www.datocms.com/), [Storyblok](https://www.storyblok.com/home), [Appwrite](https://appwrite.io/)
 
