@@ -1,9 +1,25 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samullman&label=Profile%20views&color=0e75b6&style=flat" alt="samullman-views" /> </p>
 
-# Sam Ullman
-👋 My name is Sam! I'm a Web & UI Developer living in Austin, TX.  Currently leveraging powerful web technologies for agencies and startup enterprises. Interested in UI/UX, Blockchain apps, and Javascript development! 
+<a href="https://www.linkedin.com/in/samullman/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="width:40px;" />
+</a>
 
-[Get in touch](mailto:samullman@gmail.com). 
+<a href="https://chess.com/sullman" target="_blank">
+  <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpmeXx6V.png" style="width:40px;" />
+</a>
+
+<a href="https://instagram.com/samullman">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1280px-Instagram_logo_2016.svg.png" style="width:40px;" />
+</a>
+
+<a href="https://twitter.com/samullman">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1024px-Twitter-logo.svg.png" style="width:40px;" />
+</a>
+
+# 👋 Sam Ullman
+My name is Sam! I develop technology out of Austin, TX. Currently buidling fullstack web applications for agencies, startups, and blockchain enterprises. 
+
+[Email](mailto:samullman@gmail.com). 
 
 ## Favorite Technologies
 
@@ -31,29 +47,6 @@
 * [Coco5](https://coco5.com/)
 * [Applied Materials](https://www.appliedmaterials.com/interactive-proxy/)
 * [New Highs](https://1906newhighs.com/)
-
-## Find me online
-
-
-* [LinkedIn]()
-* [Twitter]()
-
-
-<a href="https://www.linkedin.com/in/samullman/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="width:40px;" />
-</a>
-
-<a href="https://chess.com/sullman" target="_blank">
-  <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpmeXx6V.png" style="width:40px;" />
-</a>
-
-<a href="https://instagram.com/samullman">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1280px-Instagram_logo_2016.svg.png" style="width:40px;" />
-</a>
-
-<a href="https://twitter.com/samullman">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1024px-Twitter-logo.svg.png" style="width:40px;" />
-</a>
 
 
 ## Ullman Labs
