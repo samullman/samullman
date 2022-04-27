@@ -25,6 +25,8 @@ My name is Sam! I develop technology out of Austin, TX. Currently helping compan
 
 **Web Frameworks:** [Next.js](https://nextjs.org/), [SvelteKit](https://sveltekit.com/), [Remix.run](https://remix.run/), [RedwoodJS](https://redwoodjs.com/), [Atro.build](https://astro.build/), [Gatsby.js](https://www.gatsbyjs.com/)
 
+**UI:** [Solid](https://www.solidjs.com/), [Mithril](https://mithril.js.org/), [Million]()
+
 **UI Libraries:** [ChakraUI](https://chakra-ui.com/), [ElasticUI](https://elastic.github.io/eui/#/), [TailwindCSS](https://tailwindcss.com/)
 
 **Databases:** [Moralis](https://moralis.io/), [Supabase](https://supabase.io), [Firebase](https://firebase.google.com/)
@@ -37,7 +39,7 @@ My name is Sam! I develop technology out of Austin, TX. Currently helping compan
 
 **Authorization:** [Auth0](https://auth0.com/), [Clerk](https://clerk.dev)
 
-**Deployment:** [Vercel](https://vercel.com/), [Netlify](https://netlify.com/)
+**Deployment:** [Vercel](https://vercel.com/), [Netlify](https://netlify.com/), [Deta](https://www.deta.sh/), [Layer0](https://layer0.co/), 
 
 ## 🧃 Current 
 * [Ullman Labs](https://ullmanlabs.io/)
@@ -51,7 +53,7 @@ My name is Sam! I develop technology out of Austin, TX. Currently helping compan
 * [Applied Materials](https://www.appliedmaterials.com/interactive-proxy/)
 
 ## 🧊 Cool
-[Tango](https://www.tango.us/), [Hydrogen](https://hydrogen.shopify.dev/), [Layer0](https://layer0.co/), [Svelte Cubed](https://svelte-cubed.vercel.app/)
+[Tango](https://www.tango.us/), [Hydrogen](https://hydrogen.shopify.dev/), [Svelte Cubed](https://svelte-cubed.vercel.app/)
 
 
 ## Stats
