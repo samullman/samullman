@@ -23,7 +23,7 @@ My name is Sam! I develop technology out of Austin, TX. Currently buidling fulls
 
 ## 👾 Technologies
 
-**Web Frameworks:** [Next.js](https://nextjs.org/), [Gatsby.js](https://www.gatsbyjs.com/), [SvelteKit](https://sveltekit.com/), [RedwoodJS](https://redwoodjs.com/)
+**Web Frameworks:** [Next.js](https://nextjs.org/), [SvelteKit](https://sveltekit.com/), [Remix.run](https://remix.run/), [RedwoodJS](https://redwoodjs.com/), [Atro.build](https://astro.build/), [Gatsby.js](https://www.gatsbyjs.com/),
 
 **UI Libraries:** [ChakraUI](https://chakra-ui.com/), [ElasticUI](https://elastic.github.io/eui/#/), [TailwindCSS](https://tailwindcss.com/)
 
