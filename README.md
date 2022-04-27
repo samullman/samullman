@@ -35,13 +35,24 @@
 ## Find me online
 
 
-* [LinkedIn](https://www.linkedin.com/in/samullman/)
-* [Twitter](https://twitter.com/samullman)
-* [Instagram](https://instagram.com/jolly.jitsu)
-* [Twitch](https://twitch.tv/samullman)
-* 
+* [LinkedIn]()
+* [Twitter]()
+
+
+<a href="https://www.linkedin.com/in/samullman/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="width:40px;" />
+</a>
+
 <a href="https://chess.com/sullman" target="_blank">
   <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpmeXx6V.png" style="width:40px;" />
+</a>
+
+<a href="https://instagram.com/samullman">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1280px-Instagram_logo_2016.svg.png" style="width:40px;" />
+</a>
+
+<a href="https://twitter.com/samullman">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1024px-Twitter-logo.svg.png" style="width:40px;" />
 </a>
 
 
