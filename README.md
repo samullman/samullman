@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samullman&label=Profile%20views&color=0e75b6&style=flat" alt="samullman-views" /> </p>
+
 # Sam Ullman
 👋 My name is Sam! I'm a Web & UI Developer living in Austin, TX.  Currently leveraging powerful web technologies for agencies and startup enterprises. Interested in UI/UX, Blockchain apps, and Javascript development! 
 
