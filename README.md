@@ -21,7 +21,7 @@ My name is Sam! I develop technology out of Austin, TX. Currently buidling fulls
 
 [Email](mailto:samullman@gmail.com). 
 
-## Technologies
+## 👾 Technologies
 
 **Web Frameworks:** [Next.js](https://nextjs.org/), [Gatsby.js](https://www.gatsbyjs.com/), [SvelteKit](https://sveltekit.com/), [RedwoodJS](https://redwoodjs.com/)
 
@@ -35,21 +35,19 @@ My name is Sam! I develop technology out of Austin, TX. Currently buidling fulls
 
 **Deployment:** [Vercel](https://vercel.com/), [Netlify](https://netlify.com/), 
 
-## Cool products
-[Tango](https://www.tango.us/), [Hydrogen](https://hydrogen.shopify.dev/), [Layer0](https://layer0.co/), [Svelte Cubed](https://svelte-cubed.vercel.app/)
+## 🧃 Current 
+* [Ullman Labs](https://ullmanlabs.io/)
+* [Storm](https://storm.com/)
 
-## Past
-* [Orbit Exchance](https://orbitexchange.io)
+
+## ⏱️ Past
 * [Marinade](https://marinade.finance/)
 * [CodeNation](https://codenation.org/)
 * [Munchery](https://www.munchery.com/)
-* [Coco5](https://coco5.com/)
 * [Applied Materials](https://www.appliedmaterials.com/interactive-proxy/)
-* [New Highs](https://1906newhighs.com/)
 
-
-## Ullman Labs
-[Organization](https://github.com/ullman-labs/)
+## 🧊 Cool
+[Tango](https://www.tango.us/), [Hydrogen](https://hydrogen.shopify.dev/), [Layer0](https://layer0.co/), [Svelte Cubed](https://svelte-cubed.vercel.app/)
 
 
 ## Stats
