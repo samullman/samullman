@@ -33,7 +33,7 @@ My name is Sam! I develop technology out of Austin, TX. Currently helping compan
 
 **CMS:** [Directus](https://directus.io/), [Contentful](https://contentful.com/), [Prismic](https://prismic.io/), [GraphCMS](https://graphcms.com/), [DatoCMS](https://www.datocms.com/), [Storyblok](https://www.storyblok.com/home), [Appwrite](https://appwrite.io/)
 
-**DataViz:** [Nivo](https://nivo.rocks/), [Superset](https://superset.apache.org/), [Victory](https://formidable.com/open-source/victory/), [Pancake](https://pancake-charts.surge.sh/)
+**DataViz:** [Grafana](https://grafana.com/), [Nivo](https://nivo.rocks/), [Superset](https://superset.apache.org/), [Victory](https://formidable.com/open-source/victory/), [Pancake](https://pancake-charts.surge.sh/)
 
 **Authorization:** [Auth0](https://auth0.com/), [Clerk](https://clerk.dev)
 
