@@ -23,21 +23,21 @@ My name is Sam! I develop technology out of Austin, TX. Currently helping compan
 
 ## 👾 Technologies
 
-**Web Frameworks:** [Next.js](https://nextjs.org/), [SvelteKit](https://sveltekit.com/), [Remix.run](https://remix.run/), [RedwoodJS](https://redwoodjs.com/), [Atro.build](https://astro.build/), [Gatsby.js](https://www.gatsbyjs.com/)
+**Web Frameworks:** [next-js](https://nextjs.org/), [svelte-kit](https://sveltekit.com/), [remix-run](https://remix.run/), [redwood-js](https://redwoodjs.com/), [astro-build](https://astro.build/), [gatsby-js](https://www.gatsbyjs.com/)
 
-**UI:** [react](https://reactjs.org), [svelte](https://svelte.dev/), [preact](https://preactjs.com/), [Solid](https://www.solidjs.com/), [Mithril](https://mithril.js.org/), [million](https://millionjs.org/), [chakra-ui](https://chakra-ui.com/), [elastic-ui](https://elastic.github.io/eui/#/), [tailwind](https://tailwindcss.com/)
+**UI:** [react](https://reactjs.org), [svelte](https://svelte.dev/), [preact](https://preactjs.com/), [solid-js](https://www.solidjs.com/), [mithril-js](https://mithril.js.org/), [million](https://millionjs.org/), [chakra-ui](https://chakra-ui.com/), [elastic-ui](https://elastic.github.io/eui/#/), [tailwind](https://tailwindcss.com/)
 
 **Databases:** [moralis](https://moralis.io/), [supabase](https://supabase.io), [firebase](https://firebase.google.com/)
 
 **Utilities:** [zustand](https://zustand.sh), [drei](https://github.com/pmndrs), [swr](https://swr.vercel.app/), [react-query](https://react-query.tanstack.com/)
 
-**CMS:** [Directus](https://directus.io/), [Contentful](https://contentful.com/), [Prismic](https://prismic.io/), [GraphCMS](https://graphcms.com/), [DatoCMS](https://www.datocms.com/), [Storyblok](https://www.storyblok.com/home), [Appwrite](https://appwrite.io/)
+**CMS:** [directus](https://directus.io/), [contentful](https://contentful.com/), [prismic](https://prismic.io/), [graph-cms](https://graphcms.com/), [dato-cms](https://www.datocms.com/), [storyblok](https://www.storyblok.com/home), [appwrite](https://appwrite.io/)
 
-**DataViz:** [D3](https://d3js.org/), [ECharts](https://echarts.apache.org/en/index.html), [Grafana](https://grafana.com/), [Superset](https://superset.apache.org/), [Visx](https://airbnb.io/visx/), [Nivo](https://nivo.rocks/), [ApexCharts](https://apexcharts.com/), [Victory](https://formidable.com/open-source/victory/), [Pancake](https://pancake-charts.surge.sh/)
+**DataViz:** [d3](https://d3js.org/), [e-charts](https://echarts.apache.org/en/index.html), [grafana](https://grafana.com/), [superset](https://superset.apache.org/), [visx](https://airbnb.io/visx/), [nivo](https://nivo.rocks/), [apex-charts](https://apexcharts.com/), [victory](https://formidable.com/open-source/victory/), [pancake](https://pancake-charts.surge.sh/)
 
-**Authorization:** [Auth0](https://auth0.com/), [Clerk](https://clerk.dev)
+**Authorization:** [auth-0](https://auth0.com/), [clerk-dev](https://clerk.dev)
 
-**Deployment:** [Vercel](https://vercel.com/), [Netlify](https://netlify.com/), [Deta](https://www.deta.sh/), [Layer0](https://layer0.co/), 
+**Deployment:** [vercel](https://vercel.com/), [netlify](https://netlify.com/), [deta](https://www.deta.sh/), [layer-0](https://layer0.co/), 
 
 ## 🧃 Current 
 * [Ullman Labs](https://ullmanlabs.io/)
