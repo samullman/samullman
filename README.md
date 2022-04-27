@@ -37,7 +37,7 @@ My name is Sam! I develop technology out of Austin, TX. Currently helping compan
 
 **CMS:** [directus](https://directus.io/), [contentful](https://contentful.com/), [prismic](https://prismic.io/), [graph-cms](https://graphcms.com/), [dato-cms](https://www.datocms.com/), [storyblok](https://www.storyblok.com/home), [appwrite](https://appwrite.io/)
 
-**DataViz:** [d3](https://d3js.org/), [e-charts](https://echarts.apache.org/en/index.html), [grafana](https://grafana.com/), [superset](https://superset.apache.org/), [visx](https://airbnb.io/visx/), [nivo](https://nivo.rocks/), [apex-charts](https://apexcharts.com/), [victory](https://formidable.com/open-source/victory/), [pancake](https://pancake-charts.surge.sh/), [g2](https://g2.antv.vision/en/examples/gallery)
+**DataViz:** [d3](https://d3js.org/), [e-charts](https://echarts.apache.org/en/index.html), [grafana](https://grafana.com/), [superset](https://superset.apache.org/), [visx](https://airbnb.io/visx/), [nivo](https://nivo.rocks/), [apex-charts](https://apexcharts.com/), [victory](https://formidable.com/open-source/victory/), [pancake](https://pancake-charts.surge.sh/), [g2](https://g2.antv.vision/en/examples/gallery), [react-charts](https://react-charts.tanstack.com/)
 
 **Authorization:** [auth-0](https://auth0.com/), [clerk-dev](https://clerk.dev)
 
