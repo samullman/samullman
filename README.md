@@ -21,23 +21,22 @@ My name is Sam! I develop technology out of Austin, TX. Currently buidling fulls
 
 [Email](mailto:samullman@gmail.com). 
 
-## Favorite Technologies
+## Technologies
 
-**Web Frameworks:** [Next.js](https://codenation.org/), [Gatsby.js](https://www.munchery.com/), [SvelteKit](https://coco5.com/),
-[Hydrogen](https://hydrogen.shopify.dev/) by Shopify, [RedwoodJS](https://redwoodjs.com/), [Appwrite](https://appwrite.io/)
+**Web Frameworks:** [Next.js](https://nextjs.org/), [Gatsby.js](https://www.gatsbyjs.com/), [SvelteKit](https://sveltekit.com/), [RedwoodJS](https://redwoodjs.com/)
 
 **UI Libraries:** [ChakraUI](https://chakra-ui.com/), [ElasticUI](https://elastic.github.io/eui/#/), [TailwindCSS](https://tailwindcss.com/)
 
 **DataViz:** [Nivo](https://nivo.rocks/), [Victory](https://formidable.com/open-source/victory/), [Pancake](https://pancake-charts.surge.sh/)
 
-**Headless CMS:** [Contentful](https://contentful.com/), [Prismic](https://prismic.io/), [GraphCMS](https://graphcms.com/), [DatoCMS](https://www.datocms.com/), [Storyblok](https://www.storyblok.com/home)
+**Headless CMS:** [Contentful](https://contentful.com/), [Prismic](https://prismic.io/), [GraphCMS](https://graphcms.com/), [DatoCMS](https://www.datocms.com/), [Storyblok](https://www.storyblok.com/home), [Appwrite](https://appwrite.io/)
 
-**Utilities:** [Auth0](https://auth0.com/), [Zustand](https://zustand.sh) for State Management, [Svelte Cubed](https://svelte-cubed.vercel.app/) for ThreeJS, [Drei](https://github.com/pmndrs)
+**Utilities:** [Auth0](https://auth0.com/), [Zustand](https://zustand.sh), [Drei](https://github.com/pmndrs)
 
-**Deployment:** [Vercel](https://vercel.com/), [Netlify](https://netlify.com/), [Layer0](https://layer0.co/)
+**Deployment:** [Vercel](https://vercel.com/), [Netlify](https://netlify.com/), 
 
 ## Cool products
-[Tango](https://www.tango.us/)
+[Tango](https://www.tango.us/), [Hydrogen](https://hydrogen.shopify.dev/), [Layer0](https://layer0.co/), [Svelte Cubed](https://svelte-cubed.vercel.app/)
 
 ## Past
 * [Orbit Exchance](https://orbitexchange.io)
