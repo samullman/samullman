@@ -35,6 +35,14 @@ My name is Sam! I develop technology out of Austin, TX. Currently helping compan
 
 <!-- **Analytics:** commerce layer, crystallize, checkout, stripe, shopify, swell -->
 
+<!-- 
+**Databases**
+https://rxdb.info/quickstart.html
+https://www.cockroachlabs.com/
+https://appwrite.io/
+https://pouchdb.com/
+-->
+
 **CMS:** [directus](https://directus.io/), [contentful](https://contentful.com/), [prismic](https://prismic.io/), [graph-cms](https://graphcms.com/), [dato-cms](https://www.datocms.com/), [storyblok](https://www.storyblok.com/home), [appwrite](https://appwrite.io/)
 
 **DataViz:** [d3](https://d3js.org/), [e-charts](https://echarts.apache.org/en/index.html), [grafana](https://grafana.com/), [superset](https://superset.apache.org/), [visx](https://airbnb.io/visx/), [nivo](https://nivo.rocks/), [apex-charts](https://apexcharts.com/), [victory](https://formidable.com/open-source/victory/), [pancake](https://pancake-charts.surge.sh/), [g2](https://g2.antv.vision/en/examples/gallery), [react-charts](https://react-charts.tanstack.com/)
