@@ -31,7 +31,7 @@ My name is Sam! I develop technology out of Austin, TX. Currently helping compan
 
 **Utilities:** [zustand](https://zustand.sh), [drei](https://github.com/pmndrs), [swr](https://swr.vercel.app/), [react-query](https://react-query.tanstack.com/)
 
-<!-- **ECommerce:** commerce layer, crystallize, checkout, stripe, shopify, swell, https://commercejs.com/, https://zyla.rocks/ -->
+<!-- **ECommerce:** commerce layer, crystallize, checkout, stripe, shopify, swell, https://www.format.com/, https://commercejs.com/, https://zyla.rocks/ -->
 
 <!-- **Analytics:** commerce layer, crystallize, checkout, stripe, shopify, swell -->
 
