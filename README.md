@@ -35,6 +35,8 @@ My name is Sam! I develop technology out of Austin, TX. Currently helping compan
 
 <!-- **Analytics:** commerce layer, crystallize, checkout, stripe, shopify, swell -->
 
+<!-- Maps https://carto.com/basemaps/ -->
+
 <!-- 
 **Databases**
 https://rxdb.info/quickstart.html
