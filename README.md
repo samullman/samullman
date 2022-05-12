@@ -42,7 +42,8 @@ My name is Sam! I develop technology out of Austin, TX. Currently helping compan
 https://rxdb.info/quickstart.html
 https://www.cockroachlabs.com/
 https://appwrite.io/
-https://pouchdb.com/
+https://pouchdb.com/, 
+https://www.edgedb.com/, 
 -->
 
 **CMS:** [directus](https://directus.io/), [contentful](https://contentful.com/), [prismic](https://prismic.io/), [graph-cms](https://graphcms.com/), [dato-cms](https://www.datocms.com/), [storyblok](https://www.storyblok.com/home), [appwrite](https://appwrite.io/)
