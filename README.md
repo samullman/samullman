@@ -50,6 +50,9 @@ https://www.edgedb.com/,
 
 **DataViz:** [d3](https://d3js.org/), [e-charts](https://echarts.apache.org/en/index.html), [grafana](https://grafana.com/), [superset](https://superset.apache.org/), [visx](https://airbnb.io/visx/), [nivo](https://nivo.rocks/), [apex-charts](https://apexcharts.com/), [victory](https://formidable.com/open-source/victory/), [pancake](https://pancake-charts.surge.sh/), [g2](https://g2.antv.vision/en/examples/gallery), [react-charts](https://react-charts.tanstack.com/)
 
+<!-- fusion charts, frappe charts -->
+
+
 **Authorization:** [auth-0](https://auth0.com/), [clerk-dev](https://clerk.dev), https://userfront.com/, userbase, supabase
 
 **Deployment:** [vercel](https://vercel.com/), [netlify](https://netlify.com/), [deta](https://www.deta.sh/), [layer-0](https://layer0.co/)
