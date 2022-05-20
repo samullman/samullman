@@ -33,7 +33,8 @@ My name is Sam! I develop technology out of Austin, TX. Currently helping compan
 
 <!-- **ECommerce:** commerce layer, crystallize, checkout, stripe, shopify, swell, https://www.format.com/, https://commercejs.com/, https://zyla.rocks/, https://chord.co/, https://elliot.store/supply -->
 
-<!-- **Analytics:** commerce layer, crystallize, checkout, stripe, shopify, swell -->
+<!-- **Analytics:** https://usefathom.com/ -->
+
 
 <!-- Maps https://carto.com/basemaps/ -->
 
