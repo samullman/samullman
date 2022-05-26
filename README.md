@@ -35,6 +35,15 @@ My name is Sam! I develop technology out of Austin, TX. Currently helping compan
 
 **Utilities:** [Zustand](https://zustand.sh), [Drei](https://github.com/pmndrs), [SWR](https://swr.vercel.app/), [React Query](https://react-query.tanstack.com/)
 
+**CMS:** [Directus](https://directus.io/), [Contentful](https://contentful.com/), [Prismic](https://prismic.io/), [GraphCMS](https://graphcms.com/), [DatoCMS](https://www.datocms.com/), [Storyblok](https://www.storyblok.com/home), 
+
+**DataViz:** [D3](https://d3js.org/), [ECharts](https://echarts.apache.org/en/index.html), [Grafana](https://grafana.com/), [Superset](https://superset.apache.org/), [Visx](https://airbnb.io/visx/), [Nivo](https://nivo.rocks/), [Apex Charts](https://apexcharts.com/), [Victory](https://formidable.com/open-source/victory/), [Pancake](https://pancake-charts.surge.sh/), [G2](https://g2.antv.vision/en/examples/gallery), [React Charts](https://react-charts.tanstack.com/)
+
+**Authorization:** [Auth0](https://auth0.com/), [Clerk](https://clerk.dev), [Userfront](https://userfront.com/), [Fusion Auth](https://fusionauth.io/)
+
+**Deployment:** [vercel](https://vercel.com/), [netlify](https://netlify.com/), [deta](https://www.deta.sh/), [layer-0](https://layer0.co/)
+
+
 <!-- **ECommerce:** commerce layer, crystallize, checkout, stripe, shopify, swell, https://www.format.com/, https://commercejs.com/, https://zyla.rocks/, https://chord.co/, https://elliot.store/supply, sam cart -->
 
 <!-- **Analytics:** https://usefathom.com/ -->
@@ -52,18 +61,13 @@ https://pouchdb.com/,
 https://www.edgedb.com/, 
 -->
 
-**CMS:** [directus](https://directus.io/), [contentful](https://contentful.com/), [prismic](https://prismic.io/), [graph-cms](https://graphcms.com/), [dato-cms](https://www.datocms.com/), [Storyblok](https://www.storyblok.com/home), 
-
-**DataViz:** [d3](https://d3js.org/), [e-charts](https://echarts.apache.org/en/index.html), [grafana](https://grafana.com/), [superset](https://superset.apache.org/), [visx](https://airbnb.io/visx/), [nivo](https://nivo.rocks/), [apex-charts](https://apexcharts.com/), [victory](https://formidable.com/open-source/victory/), [pancake](https://pancake-charts.surge.sh/), [g2](https://g2.antv.vision/en/examples/gallery), [react-charts](https://react-charts.tanstack.com/)
 
 <!-- fusion charts, frappe charts -->
 
 <!-- paymens https://www.moneybutton.com/ -->
 
 
-**Authorization:** [Auth0](https://auth0.com/), [Clerk](https://clerk.dev), [Userfront](https://userfront.com/)
 
-**Deployment:** [vercel](https://vercel.com/), [netlify](https://netlify.com/), [deta](https://www.deta.sh/), [layer-0](https://layer0.co/)
 
 ## 🧃 Current 
 * [Ullman Labs](https://ullmanlabs.io/)
