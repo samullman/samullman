@@ -29,9 +29,9 @@ My name is Sam! I develop technology out of Austin, TX. Currently helping compan
 
 **UI:** [react](https://reactjs.org), [svelte](https://svelte.dev/), [preact](https://preactjs.com/), [solid-js](https://www.solidjs.com/), [mithril-js](https://mithril.js.org/), [million](https://millionjs.org/), [chakra-ui](https://chakra-ui.com/), [elastic-ui](https://elastic.github.io/eui/#/), [tailwind](https://tailwindcss.com/)
 
-**Databases:** [moralis](https://moralis.io/), [supabase](https://supabase.io), [firebase](https://firebase.google.com/)
+**Databases:** [moralis](https://moralis.io/), [supabase](https://supabase.io), [firebase](https://firebase.google.com/), [Amplication](https://amplication.com/), [RxDB](https://rxdb.info/quickstart.html)
 
-**Utilities:** [zustand](https://zustand.sh), [drei](https://github.com/pmndrs), [swr](https://swr.vercel.app/), [react-query](https://react-query.tanstack.com/)
+**Utilities:** [Zustand](https://zustand.sh), [Drei](https://github.com/pmndrs), [SWR](https://swr.vercel.app/), [React Query](https://react-query.tanstack.com/)
 
 <!-- **ECommerce:** commerce layer, crystallize, checkout, stripe, shopify, swell, https://www.format.com/, https://commercejs.com/, https://zyla.rocks/, https://chord.co/, https://elliot.store/supply, sam cart -->
 
@@ -43,7 +43,7 @@ My name is Sam! I develop technology out of Austin, TX. Currently helping compan
 <!-- Sales https://www.outreach.io/ -->
 <!-- 
 **Databases**
-https://rxdb.info/quickstart.html
+
 https://www.cockroachlabs.com/
 https://appwrite.io/
 https://pouchdb.com/, 
