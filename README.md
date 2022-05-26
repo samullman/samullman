@@ -25,11 +25,11 @@ My name is Sam! I develop technology out of Austin, TX. Currently helping compan
 
 ## 👾 Technologies
 
-**Web Frameworks:** [next-js](https://nextjs.org/), [svelte-kit](https://sveltekit.com/), [remix-run](https://remix.run/), [redwood-js](https://redwoodjs.com/), [astro-build](https://astro.build/), [gatsby-js](https://www.gatsbyjs.com/)
+**Web Frameworks:** [Next.js](https://nextjs.org/), [Svelte Kit](https://sveltekit.com/), [Remix Run](https://remix.run/), [Redwood](https://redwoodjs.com/), [Astro](https://astro.build/), [Gatsby](https://www.gatsbyjs.com/)
 
-**UI:** [react](https://reactjs.org), [svelte](https://svelte.dev/), [preact](https://preactjs.com/), [solid-js](https://www.solidjs.com/), [mithril-js](https://mithril.js.org/), [million](https://millionjs.org/), [chakra-ui](https://chakra-ui.com/), [elastic-ui](https://elastic.github.io/eui/#/), [tailwind](https://tailwindcss.com/)
+**UI:** [React](https://reactjs.org), [Svelte](https://svelte.dev/), [Preact](https://preactjs.com/), [Solid](https://www.solidjs.com/), [Mithril](https://mithril.js.org/), [Million](https://millionjs.org/), [Chakra](https://chakra-ui.com/), [Elastic UI](https://elastic.github.io/eui/#/), [Tailwind](https://tailwindcss.com/)
 
-**Databases:** [moralis](https://moralis.io/), [supabase](https://supabase.io), [firebase](https://firebase.google.com/), [Amplication](https://amplication.com/), [RxDB](https://rxdb.info/quickstart.html)
+**Databases:** [Moralis](https://moralis.io/), [Supabase](https://supabase.io), [Firebase](https://firebase.google.com/), [Amplication](https://amplication.com/), [RxDB](https://rxdb.info/quickstart.html)
 
 **Utilities:** [Zustand](https://zustand.sh), [Drei](https://github.com/pmndrs), [SWR](https://swr.vercel.app/), [React Query](https://react-query.tanstack.com/)
 
