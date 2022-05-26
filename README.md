@@ -31,7 +31,7 @@ My name is Sam! I develop technology out of Austin, TX. Currently helping compan
 
 **Databases:** [Moralis](https://moralis.io/), [Supabase](https://supabase.io), [Firebase](https://firebase.google.com/),  [RxDB](https://rxdb.info/quickstart.html)
 
-**Backends** [Appwrite](https://appwrite.io/), [Amplication](https://amplication.com/), [Userbase](https://userbase.com/)
+**Backends:** [Appwrite](https://appwrite.io/), [Amplication](https://amplication.com/), [Userbase](https://userbase.com/)
 
 **Utilities:** [Zustand](https://zustand.sh), [Drei](https://github.com/pmndrs), [SWR](https://swr.vercel.app/), [React Query](https://react-query.tanstack.com/)
 
@@ -41,7 +41,7 @@ My name is Sam! I develop technology out of Austin, TX. Currently helping compan
 
 **Authorization:** [Auth0](https://auth0.com/), [Clerk](https://clerk.dev), [Userfront](https://userfront.com/), [Fusion Auth](https://fusionauth.io/)
 
-**Deployment:** [vercel](https://vercel.com/), [netlify](https://netlify.com/), [deta](https://www.deta.sh/), [layer-0](https://layer0.co/)
+**Deployment:** [Vercel](https://vercel.com/), [Netlify](https://netlify.com/), [Deta](https://www.deta.sh/), [Layer0](https://layer0.co/)
 
 
 <!-- **ECommerce:** commerce layer, crystallize, checkout, stripe, shopify, swell, https://www.format.com/, https://commercejs.com/, https://zyla.rocks/, https://chord.co/, https://elliot.store/supply, sam cart -->
