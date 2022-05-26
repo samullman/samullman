@@ -29,7 +29,9 @@ My name is Sam! I develop technology out of Austin, TX. Currently helping compan
 
 **UI:** [React](https://reactjs.org), [Svelte](https://svelte.dev/), [Preact](https://preactjs.com/), [Solid](https://www.solidjs.com/), [Mithril](https://mithril.js.org/), [Million](https://millionjs.org/), [Chakra](https://chakra-ui.com/), [Elastic UI](https://elastic.github.io/eui/#/), [Tailwind](https://tailwindcss.com/), [Bit](https://bit.dev/), [Plasmic](https://plasmic.app/)
 
-**Databases:** [Moralis](https://moralis.io/), [Supabase](https://supabase.io), [Firebase](https://firebase.google.com/), [Amplication](https://amplication.com/), [RxDB](https://rxdb.info/quickstart.html)
+**Databases:** [Moralis](https://moralis.io/), [Supabase](https://supabase.io), [Firebase](https://firebase.google.com/),  [RxDB](https://rxdb.info/quickstart.html)
+
+**Backends** [Appwrite](https://appwrite.io/), [Amplication](https://amplication.com/), [Userbase](https://userbase.com/)
 
 **Utilities:** [Zustand](https://zustand.sh), [Drei](https://github.com/pmndrs), [SWR](https://swr.vercel.app/), [React Query](https://react-query.tanstack.com/)
 
@@ -50,7 +52,7 @@ https://pouchdb.com/,
 https://www.edgedb.com/, 
 -->
 
-**CMS:** [directus](https://directus.io/), [contentful](https://contentful.com/), [prismic](https://prismic.io/), [graph-cms](https://graphcms.com/), [dato-cms](https://www.datocms.com/), [storyblok](https://www.storyblok.com/home), [appwrite](https://appwrite.io/)
+**CMS:** [directus](https://directus.io/), [contentful](https://contentful.com/), [prismic](https://prismic.io/), [graph-cms](https://graphcms.com/), [dato-cms](https://www.datocms.com/), [Storyblok](https://www.storyblok.com/home), 
 
 **DataViz:** [d3](https://d3js.org/), [e-charts](https://echarts.apache.org/en/index.html), [grafana](https://grafana.com/), [superset](https://superset.apache.org/), [visx](https://airbnb.io/visx/), [nivo](https://nivo.rocks/), [apex-charts](https://apexcharts.com/), [victory](https://formidable.com/open-source/victory/), [pancake](https://pancake-charts.surge.sh/), [g2](https://g2.antv.vision/en/examples/gallery), [react-charts](https://react-charts.tanstack.com/)
 
@@ -59,7 +61,7 @@ https://www.edgedb.com/,
 <!-- paymens https://www.moneybutton.com/ -->
 
 
-**Authorization:** [auth-0](https://auth0.com/), [clerk-dev](https://clerk.dev), https://userfront.com/, userbase, supabase
+**Authorization:** [Auth0](https://auth0.com/), [Clerk](https://clerk.dev), [Userfront](https://userfront.com/)
 
 **Deployment:** [vercel](https://vercel.com/), [netlify](https://netlify.com/), [deta](https://www.deta.sh/), [layer-0](https://layer0.co/)
 
