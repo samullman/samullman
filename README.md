@@ -27,7 +27,7 @@ My name is Sam! I develop technology out of Austin, TX. Currently helping compan
 
 **Web Frameworks:** [Next.js](https://nextjs.org/), [Svelte Kit](https://sveltekit.com/), [Remix Run](https://remix.run/), [Redwood](https://redwoodjs.com/), [Astro](https://astro.build/), [Gatsby](https://www.gatsbyjs.com/)
 
-**UI:** [React](https://reactjs.org), [Svelte](https://svelte.dev/), [Preact](https://preactjs.com/), [Solid](https://www.solidjs.com/), [Mithril](https://mithril.js.org/), [Million](https://millionjs.org/), [Chakra](https://chakra-ui.com/), [Elastic UI](https://elastic.github.io/eui/#/), [Tailwind](https://tailwindcss.com/)
+**UI:** [React](https://reactjs.org), [Svelte](https://svelte.dev/), [Preact](https://preactjs.com/), [Solid](https://www.solidjs.com/), [Mithril](https://mithril.js.org/), [Million](https://millionjs.org/), [Chakra](https://chakra-ui.com/), [Elastic UI](https://elastic.github.io/eui/#/), [Tailwind](https://tailwindcss.com/), [Bit](https://bit.dev/), [Plasmic](https://plasmic.app/)
 
 **Databases:** [Moralis](https://moralis.io/), [Supabase](https://supabase.io), [Firebase](https://firebase.google.com/), [Amplication](https://amplication.com/), [RxDB](https://rxdb.info/quickstart.html)
 
