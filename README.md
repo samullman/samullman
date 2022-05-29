@@ -81,7 +81,7 @@ https://www.edgedb.com/,
 * [Applied Materials](https://www.appliedmaterials.com/interactive-proxy/)
 
 ## 🧊 Cool
-[Tango](https://www.tango.us/), [Hydrogen](https://hydrogen.shopify.dev/), [Svelte Cubed](https://svelte-cubed.vercel.app/), [Owner](https://owner.com), [Raster](https://raster.app/), [Mathcha](https://www.mathcha.io/editor)
+[Tango](https://www.tango.us/), [Hydrogen](https://hydrogen.shopify.dev/), [Svelte Cubed](https://svelte-cubed.vercel.app/), [Owner](https://owner.com), [Raster](https://raster.app/), [Mathcha](https://www.mathcha.io/editor), [GetDex](https://getdex.com/), [Summit](https://usesummit.com/), [Logseq](https://logseq.com/)
 
 
 ## Stats
