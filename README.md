@@ -18,8 +18,8 @@
 
 
 
-# 👋 Sam Ullman
-My name is Sam! I develop technology out of Austin, TX. Currently helping companies build fullstack web applications #web3 #gm
+# My name is Sam 👋 
+I do web development, sales, and business development currently out of Austin, TX, USA. 
 
 [Email](mailto:samullman@gmail.com)
 
