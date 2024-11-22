@@ -31,7 +31,7 @@ I help entreprenuers turbocharge their systems with organization and clarity.
 
 
 <br />
-<br />
+
 
 
 
@@ -56,6 +56,11 @@ I help entreprenuers turbocharge their systems with organization and clarity.
 **Deployment:** [Vercel](https://vercel.com/), [Netlify](https://netlify.com/), [Deta](https://www.deta.sh/), [Layer0](https://layer0.co/)
 
 
+**Cool:** [Tango](https://www.tango.us/), [Hydrogen](https://hydrogen.shopify.dev/), [Svelte Cubed](https://svelte-cubed.vercel.app/), [Owner](https://owner.com), [Raster](https://raster.app/), [Mathcha](https://www.mathcha.io/editor), [GetDex](https://getdex.com/), [Summit](https://usesummit.com/), [Logseq](https://logseq.com/), [Money Button](https://www.moneybutton.com/)
+
+
+
+
 <!-- **ECommerce:** commerce layer, crystallize, checkout, stripe, shopify, swell, https://commercejs.com/, https://zyla.rocks/, https://chord.co/, https://elliot.store/supply, sam cart -->
 
 <!-- **Analytics:** https://usefathom.com/ -->
@@ -76,26 +81,5 @@ https://www.edgedb.com/,
 
 
 <!-- fusion charts, frappe charts -->
-
-
-
-
-
-
-## 🧃 Current 
-* [samullman.com](https://samullman.com/)
-<!-- * [Ullman Labs](https://ullmanlabs.io/) -->
-<!-- * [Storm](https://storm.com/) -->
-
-
-## ⏱️ Past
-* [Marinade](https://marinade.finance/)
-* [CodeNation](https://codenation.org/)
-* [Munchery](https://www.munchery.com/)
-* [Applied Materials](https://www.appliedmaterials.com/interactive-proxy/)
-
-## 🧊 Cool
-[Tango](https://www.tango.us/), [Hydrogen](https://hydrogen.shopify.dev/), [Svelte Cubed](https://svelte-cubed.vercel.app/), [Owner](https://owner.com), [Raster](https://raster.app/), [Mathcha](https://www.mathcha.io/editor), [GetDex](https://getdex.com/), [Summit](https://usesummit.com/), [Logseq](https://logseq.com/), [Money Button](https://www.moneybutton.com/)
-
 
 
