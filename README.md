@@ -30,7 +30,10 @@ I help entreprenuers turbocharge their systems with organization and clarity.
 
 
 
-## 👾 Technologies
+<br />
+<br />
+
+
 
 **Web Frameworks:** [Next.js](https://nextjs.org/), [Svelte Kit](https://sveltekit.com/), [Remix Run](https://remix.run/), [Redwood](https://redwoodjs.com/), [Astro](https://astro.build/), [Gatsby](https://www.gatsbyjs.com/)
 
