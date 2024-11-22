@@ -11,6 +11,13 @@ I help entreprenuers turbocharge their systems with organization and clarity.
 [Phone](mailto:samullman@gmail.com)
 
 
+<br />
+
+[![Sam Ullman's Github Stats](https://github-readme-stats.vercel.app/api?username=samullman)](https://github.com/samullman)
+
+<br />
+
+<hr />
 
 <a href="https://chess.com/sullman" target="_blank">
   <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpmeXx6V.png" style="width:40px;" />
@@ -87,7 +94,4 @@ https://www.edgedb.com/,
 [Tango](https://www.tango.us/), [Hydrogen](https://hydrogen.shopify.dev/), [Svelte Cubed](https://svelte-cubed.vercel.app/), [Owner](https://owner.com), [Raster](https://raster.app/), [Mathcha](https://www.mathcha.io/editor), [GetDex](https://getdex.com/), [Summit](https://usesummit.com/), [Logseq](https://logseq.com/), [Money Button](https://www.moneybutton.com/)
 
 
-## Stats
-
-[![Sam Ullman's Github Stats](https://github-readme-stats.vercel.app/api?username=samullman)](https://github.com/samullman)
 
