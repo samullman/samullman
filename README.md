@@ -12,12 +12,13 @@ I help entreprenuers turbocharge their systems with organization and clarity.
 
 
 <br />
+<br />
 
 [![Sam Ullman's Github Stats](https://github-readme-stats.vercel.app/api?username=samullman)](https://github.com/samullman)
 
 <br />
 
-<hr />
+<br />
 
 <a href="https://chess.com/sullman" target="_blank">
   <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpmeXx6V.png" style="width:40px;" />
