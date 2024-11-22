@@ -18,10 +18,11 @@
 
 
 
-# My name is Sam 👋 
-I do web development, sales, and business development currently out of Austin, TX, USA. 
+# Sam Ullman
+I help entreprenuers turbocharge their systems with organization and clarity. 
 
 [Email](mailto:samullman@gmail.com)
+[Phone](mailto:samullman@gmail.com)
 
 ## 👾 Technologies
 
