@@ -3,15 +3,9 @@
 
 
 
-
-# Sam Ullman
-I help entreprenuers turbocharge their systems with organization and clarity. 
-
 [Email](mailto:samullman@gmail.com)
-[Phone](mailto:samullman@gmail.com)
 
 
-<br />
 
 
 [![Sam Ullman's Github Stats](https://github-readme-stats.vercel.app/api?username=samullman)](https://github.com/samullman)
